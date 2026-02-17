@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts and data outputs
+*.pkl
+*.pickle
+master_tourism_data.csv
+master_items.csv
+rating_distribution.png
+visit_mode_distribution.png
+
+# Streamlit
+.streamlit/
+
